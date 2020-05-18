@@ -64,9 +64,7 @@ typings/
 stats
 
 # build directories
-/dist
 /components
-/plugins
 /tools
 
 # Idea directory
