@@ -6,7 +6,6 @@ exports[`List renders matching snapshot 1`] = `
     Array [
       true,
       "wrap",
-      undefined,
     ]
   }
   inline={false}

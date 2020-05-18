@@ -23,7 +23,7 @@ const List = ({
     flex={
       justified ||
       fullWidth ||
-      (inline ? [true, 'wrap', ...rest.flex] : rest.flex)
+      (inline ? [true, 'wrap'].concat(rest.flex || []) : rest.flex)
     }
     justify={justified ? 'between' : undefined}
     listReset={reset || inline || justified || fullWidth}
