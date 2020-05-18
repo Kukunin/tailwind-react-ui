@@ -11,5 +11,7 @@
   <TextButton brand="info">Info</TextButton>
 
   <TextButton text="purple">Custom</TextButton>
+
+  <TextButton brand="primary" disabled>Disabled</TextButton>
 </List>
 ```

@@ -13,5 +13,7 @@
   <OutlineButton border="purple" text="white">
     Custom
   </OutlineButton>
+
+  <OutlineButton brand="primary" disabled>Disabled</OutlineButton>
 </List>
 ```

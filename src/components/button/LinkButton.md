@@ -11,5 +11,7 @@
   <LinkButton brand="info">Info</LinkButton>
 
   <LinkButton text="purple">Custom</LinkButton>
+
+  <LinkButton brand="primary" disabled>Disabled</LinkButton>
 </List>
 ```

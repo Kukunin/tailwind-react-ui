@@ -83,6 +83,7 @@ const Button = ({
 
   if (disabled) {
     props.opacity = 50
+    props.disabled = true
   }
 
   if (fullWidth) {

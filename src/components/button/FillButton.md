@@ -13,5 +13,7 @@
   <FillButton bg="purple" text="white">
     Custom
   </FillButton>
+
+  <FillButton brand="primary" disabled>Disabled</FillButton>
 </List>
 ```
