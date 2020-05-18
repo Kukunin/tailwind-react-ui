@@ -76,7 +76,7 @@
     "classnames": "^2.2.6",
     "lodash.get": "^4.4.2",
     "lodash.includes": "^4.3.0",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "lodash.uniqueid": "^4.0.1",
     "param-case": "^2.1.1",
     "prop-types": "^15.6.2",
@@ -111,7 +111,7 @@
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.10.0",
     "gh-pages": "^2.0.0",
-    "glob-all": "^3.1.0",
+    "glob-all": "^3.2.1",
     "husky": "^1.1.4",
     "jest": "^23.4.1",
     "mini-css-extract-plugin": "^0.5.0",
@@ -130,7 +130,7 @@
     "standard-version": "^4.4.0",
     "style-loader": "^0.23.0",
     "tailwindcss": "^0.6.4",
-    "webpack": "^4.16.5"
+    "webpack": "^4.43.0"
   },
   "author": "Ed Mortlock",
   "license": "MIT",
